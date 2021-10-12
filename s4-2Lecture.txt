@@ -23,3 +23,6 @@ Companies that Uses Bootstrap
 Two ways to Incorporate Bootstrap
 	1. Local Resources
 	2. CDN (Content Delivery Network)
+
+container-fluid 
+	- sakop niya buong screen para sa navbar

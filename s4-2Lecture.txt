@@ -1,0 +1,25 @@
+Screen 
+	- Desktop
+	- Tablet
+	- Mobile
+Bootstrap 
+	- is one of the popular CSS framework
+	- developed by Mark Otto and Jacob Thorton at Twitter
+	- released on August 2011
+	- it is an open-source product
+
+Features of Bootstrap
+	- Easy setup
+	- Mobile-First Approach
+
+Companies that Uses Bootstrap
+	- Spotify 
+	- lyft
+	- cousera
+	- twitter
+	- linkedIn
+	- snapshot
+
+Two ways to Incorporate Bootstrap
+	1. Local Resources
+	2. CDN (Content Delivery Network)
